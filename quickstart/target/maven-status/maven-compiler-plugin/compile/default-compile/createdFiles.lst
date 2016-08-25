@@ -1,0 +1,5 @@
+org/myorg/quickstart/Job.class
+org/myorg/quickstart/MatImageSerialize.class
+org/myorg/quickstart/Job$1.class
+org/myorg/quickstart/Job$FlatMapFn.class
+org/myorg/quickstart/FlinkStreamSource.class

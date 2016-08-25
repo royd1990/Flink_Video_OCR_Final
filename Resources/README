@@ -1,0 +1,4 @@
+These resources are hardcoded in the program and needs to be placed in appropiate locations as per their paths given in the program. Any change in the path can be easily done by changes in the program, however these resouces has to be put in the appropiate path as required by the program.
+Attention required when being executed in a cluster.
+
+**The TessData training set is sometimes required to put in the data sink (the place where the final file is written, otherwise it gives an error with the training set).
